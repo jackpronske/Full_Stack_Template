@@ -4,5 +4,3 @@ Got tired of setting this up all the time, so here's a full stack application te
 FRONT END - React
 SERVER - Express
 DATABASE - PostgreSQL
-
-cahnged
